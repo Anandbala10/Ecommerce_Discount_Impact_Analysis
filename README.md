@@ -65,11 +65,17 @@ This analysis highlights how high return rates and aggressive discounting can ma
 
 ## Repository Structure
 
+## 📁 Repository Structure
+
+```
 Ecommerce_Discount_Impact_Analysis/
 │
 ├── data/
-│ └── Ecommerce_Sales_Performance_Q4_2024.xlsx
+│   └── ecommerce_sales_q4_2024.xlsx
+│
 ├── visuals/
-│ └── ORDERvsRETURN.png
-│ └── TOP_5_SKUs.png
-├── README.md
+│   ├── ORDERvsRETURN.png
+│   └── TOP_5_SKUs.png
+│
+└── README.md
+```
